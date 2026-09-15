@@ -49,7 +49,7 @@ DreamWorlds (Root Container)
 │   ├── BuildMenu.lua
 │   ├── ProfileUI.lua
 │   ├── DiscoveryUI.lua
-│   ├── etc...
+│   └── etc...
 │
 └── Workspace/DreamWorlds/
     ├── Hub/                    (Main hub world)
@@ -59,7 +59,7 @@ DreamWorlds (Root Container)
     └── Temporary/              (Runtime instances)
 ```
 
-## 🔀 Data Flow
+## 🔄 Data Flow
 
 ### Build Action Flow
 ```
@@ -111,7 +111,7 @@ Client notified
 - Check permissions
 - Reject invalid operations
 
-## 📡 Service Responsibilities
+## 💡 Service Responsibilities
 
 | Service | Responsibility |
 |---------|----------------|
